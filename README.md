@@ -9,6 +9,7 @@ This repository contains a reproduction of the research Price Discrimination wit
 In this reproduction, we aimed to faithfully recreate the experiments and results reported in the original research paper. We followed the methodology described in the paper as closely as possible, using the same dataset, parameters, and evaluation metrics.
 
 ## Authors
+We would like to express our gratitude to the authors of the original research paper for their important contributions to the field.
 
 The original research paper was authored by:
 - Maxime C. Cohen, Desautels Faculty of Management, McGill University, Montreal, Quebec H3A 1G5, Canada
