@@ -9,11 +9,6 @@ This repository contains a reproduction of the research Price Discrimination wit
 In this reproduction, we aimed to faithfully recreate the experiments and results reported in the original research paper. We followed the methodology described in the paper as closely as possible, using the same dataset, parameters, and evaluation metrics.
 
 
-## Contribution
-- A highly effective technique for self-supervised learning in pair trading has been developed, which is remarkably straightforward to implement. This approach achieves superior performance compared to existing methods, without relying on contrastive learning or the need to identify negative pairs.
-- 
-
-
 ## Contributing
 
 We welcome contributions to this repository, such as bug fixes or enhancements to the code. Please create a pull request with your changes, and we will review them as soon as possible.
