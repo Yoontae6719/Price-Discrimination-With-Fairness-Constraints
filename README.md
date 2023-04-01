@@ -1,7 +1,7 @@
 
 # Reproduction of Research Price Discrimination with Fairness Constraints (Not official code)
 
-This repository contains a reproduction of the research A, which was originally published in [Management Scinece](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2022.4317). Please note that this is not an official repository maintained by the original authors.
+This repository contains a reproduction of the research Price Discrimination with Fairness Constraints, which was originally published in [Management Scinece](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2022.4317). Please note that this is not an official repository maintained by the original authors.
 
 
 
