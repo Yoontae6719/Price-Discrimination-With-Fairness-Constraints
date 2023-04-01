@@ -8,6 +8,12 @@ This repository contains a reproduction of the research Price Discrimination wit
 ## Overviwe
 In this reproduction, we aimed to faithfully recreate the experiments and results reported in the original research paper. We followed the methodology described in the paper as closely as possible, using the same dataset, parameters, and evaluation metrics.
 
+## Authors
+
+The original research paper was authored by:
+- Maxime C. Cohen, Desautels Faculty of Management, McGill University, Montreal, Quebec H3A 1G5, Canada
+- Adam N. Elmachtoub, Department of Industrial Engineering and Operations Research, Columbia University, New York, New York 10027
+- Xiao Lei, Desautels Faculty of Management, McGill University, Montreal, Quebec H3A 1G5, Canada
 
 ## Contributing
 
