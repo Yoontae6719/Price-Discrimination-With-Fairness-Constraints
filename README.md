@@ -1,4 +1,3 @@
-# Price-Discrimination-With-Fairness-Constraints
 
 # Reproduction of Research Price Discrimination with Fairness Constraints (Not official code)
 
