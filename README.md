@@ -12,8 +12,8 @@ The repository contains code for reproducing the experiments in the paper. All r
 - [x] Code for Example 1 Impossibility When Mean Valuations Are Equal).
 - [x] Code for Theorem 2 Impact of Imposing a Little Fairness on Social Welfare
 - [x] Code for Chapter 3 Analysis for Linear Demand
-- [ ] Code for Chapter 4 Extensions(Multiple Groups of Customers; Porposition 6 and 7)
-- [ ] Code for Chapter 5 Computations for Nonlinear Demand Functions(Impact of Fairness Under Logistic Demand (Two Groups))
+
+- Note that Impact of fairness under logistic demand can be implemented in the same way as in Chapter 3. 
 
 
 ## Contributing
